@@ -1,3 +1,6 @@
-# miCV
+# Preview
+![](docs/screenshot.png)
 
-Este es una pagina web
+# Code
+- src, is the source code of the website
+- docs, have images, and text about this website
